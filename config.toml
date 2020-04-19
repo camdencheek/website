@@ -1,0 +1,13 @@
+baseURL = "https://camdencheek.com/"
+languageCode = "en-us"
+title = "camdencheek.com"
+theme = "hugo-notepadium"
+
+[params]
+style = "light"
+
+[params.syntax]
+use = "hljs"
+
+[markup.goldmark.renderer]
+unsafe = true
