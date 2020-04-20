@@ -7,7 +7,7 @@ theme = "hugo-notepadium"
 style = "light"
 
 [params.syntax]
-use = "hljs"
+use = "none"
 
 [markup.goldmark.renderer]
 unsafe = true
