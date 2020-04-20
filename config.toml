@@ -11,3 +11,7 @@ use = "none"
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[[params.nav.custom]]
+title = "about"
+url = "/about/"
