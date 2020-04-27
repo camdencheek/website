@@ -1,6 +1,6 @@
 Hi, I'm Camden Cheek.
 
-I'm a software developer at Blue Medora. Most of my professional work is in the application monitoring space, particularly around logs. My personal interests include generative art and music, command-line development, and programming langauges.
+I'm a software developer at Blue Medora. Most of my professional work is in the application monitoring space, particularly around logs. My personal interests include generative art and music, command-line development, and programming languages.
 
 Elsewhere, I can be found online at:
 - [github.com/camdencheek](https://github.com/camdencheek)
